@@ -1,2 +1,1 @@
-# YJ
-git hub study simulation
+# C lang study
